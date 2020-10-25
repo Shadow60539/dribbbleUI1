@@ -1,16 +1,22 @@
-# dribbble1
 
-A new Flutter project.
+[![support](https://img.shields.io/badge/plateform-flutter%7Candroid%20studio-9cf?style=plastic&logo=appveyor)](https://github.com/Shadow60539/dribbbleUI1)
 
-## Getting Started
+# Introduction
 
-This project is a starting point for a Flutter application.
+If you have design, hold your apk too ! contact me at sanjeevmadhav03@gmail.com.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Inspiration
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Inspired from this beautiful dribbble shot [Simple Phone Mockup for Anaylytics UI](https://dribbble.com/shots/14442583-Simple-Phone-Mockup-for-Anaylytics-UI?utm_source=Clipboard_Shot&utm_campaign=tranmautritam&utm_content=Simple%20Phone%20Mockup%20for%20Anaylytics%20UI&utm_medium=Social_Share) by Tran Mau Tri Tam
+
+
+# Preview
+
+![Output sample](images/s.png)
+
+![Output sample](images/s2.png)
+
+
+
+![Output sample](images/dribbble_preview.gif)
