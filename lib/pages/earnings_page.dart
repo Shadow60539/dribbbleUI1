@@ -62,15 +62,15 @@ class EarningsPage extends StatelessWidget {
           ),
         ),
         color: kBlack,
-        onPressed: () {},
+        onPressed: () =>Navigator.pop(context),
       ),
     );
 
     return Scaffold(
       backgroundColor: kWhite,
       appBar: _appBar,
-      body: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
+      body: ListView(
+        padding: const EdgeInsets.only(bottom: 20),
         children: [
           HeightSpace(20),
           Padding(

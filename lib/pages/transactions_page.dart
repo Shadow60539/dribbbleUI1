@@ -173,7 +173,7 @@ class _TransactionPageState extends State<TransactionPage>
     }
 
     Widget lowerContainer = Container(
-      height: height / 5,
+      height: height / 4.5,
       padding: EdgeInsets.only(top: 10, left: 10, right: 10, bottom: 20),
       alignment: Alignment.center,
       width: width - 40,
@@ -280,7 +280,7 @@ class _TransactionPageState extends State<TransactionPage>
                     children: [
                       AnimatedPositioned(
                         child: FadeFromDownAnimation(child: lowerContainer),
-                        top: indexisChanging ? height / 5 : 0,
+                        top: indexisChanging ? height / 6 : 0,
                         duration: const Duration(milliseconds: 400),
                         curve: Curves.easeInOutBack,
                       ),
