@@ -19,4 +19,6 @@ If you have design, hold your apk too ! contact me at sanjeevmadhav03@gmail.com.
 
 
 
-![Output sample](images/dribbble_preview.gif)
+
+
+![Output sample](images/trimmed_preview.gif)
